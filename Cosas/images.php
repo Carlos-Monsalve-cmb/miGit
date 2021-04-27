@@ -19,7 +19,7 @@
 $config['image_sizes']['small'] = array(75, 50);
 $config['image_sizes']['medium'] = array(1024, 683);
 $config['image_sizes']['large'] = array(1024, 0);
-$config['image_sizes']['featured'] = array(219, 123);
+$config['image_sizes']['featured'] = array(219, 123);  
 $config['image_sizes']['list'] = array(480, 320);
 
 /* End of file images.php */
